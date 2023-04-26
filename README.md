@@ -41,3 +41,38 @@ After your technical and professional skills, learn how to display them during a
 - SPA (single page application)
 - JS Library (React)
 - Higher order function
+
+# DSA (Data Structure and Algorithms)
+
+[dsa with example](https://www.freecodecamp.org/news/data-structures-in-javascript-with-examples/)
+
+- What is a data structure?
+- Arrays
+- Objects (hash tables)
+- Stacks
+- Queues
+- Linked lists
+- Singly linked lists
+- Doubly linked lists
+- Trees
+- Binary trees
+- Heaps
+- Graphs
+- Undirected and directed graphs
+- Weighted and unweighted graphs
+- How to represent graphs
+
+# Front End topics
+
+- Performance
+- Unit Testing
+- E2E Testing
+- Web Accessibility
+- CORS
+- Arrays
+- SEO
+- REST APIs
+- HTTP/HTTPS
+- Github
+- Task Runners
+- Browsers APIs (eg.DOM, localstorage,fetch, console)
